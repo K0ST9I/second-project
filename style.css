@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+	<title>HTML2 and CSS2 "Hello World"</title>
+	<style>
+ body {
+ background-color: #2D2D2D;
+		}
+		
+ h1 {
+ color: #C26356;
+ font-size: 40px;
+ font-family: Menlo, Monaco, fixed-width;
+		}
+		
+ p {
+ color: red;
+ font-family: "Source Code Pro", Menlo, Monaco, fixed-width;
+		}
+	</style>
+</head>
+<body>
+	<h1>Hello World! THE Second Project</h1>
+	<p>This is a very basic "Hello World" example made up in HTML2 and CSS2. See if you can change the size of the header text above.</p>
+</body>
+</html> 
